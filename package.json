@@ -15,11 +15,16 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
+    "@babel/preset-typescript": "^7.0.0-beta.44",
     "@vue/cli-plugin-babel": "^3.0.0-beta.6",
     "@vue/cli-plugin-typescript": "^3.0.0-beta.6",
     "@vue/cli-service": "^3.0.0-beta.6",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-vue-app": "^2.0.0",
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
+    "vue-full-calendar": "^2.5.2",
     "vue-template-compiler": "^2.5.13"
   },
   "browserslist": [
